@@ -15,7 +15,7 @@
 # numFinal = int(input("Ingrese e numero final del rango: "))
 
 # for n in range(numInicio, numFinal):
-#     if n % 2 == 0:
+#     if n % 2 == 2:
 #         continue
 #     else:
 #         print(n)
